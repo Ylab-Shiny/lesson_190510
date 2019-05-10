@@ -1,1 +1,2 @@
-print("Hello World!")
+dataset <- iris
+print(head(dataset))
